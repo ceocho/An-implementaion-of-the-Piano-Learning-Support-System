@@ -6,7 +6,7 @@
 LED를 점등시켜 사용자에게 타건위치를 표시해줌으로써 건반과 음계의 상관관계를 숙지할 수 있도록 구현하였다.
 
 # 프로젝트 시연 영상
-[![Video Lavel](https://img.youtube.com/vi/KNcZKLKFneQ/0.jpg)](https://youtu.be/KNcZKLKFneQ?t=0s)
+[![Video Lavel](https://img.youtube.com/vi/frfkz_EdRrY/0.jpg)](https://youtu.be/frfkz_EdRrY?t=0s)
 
 # 프로젝트 정보
 ## 필요 재료
